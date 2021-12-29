@@ -10,11 +10,7 @@ vectorizer = pickle.load(open('vectorizer.pickle', 'rb'))
 #This converts the input text string to lower case
 def preprocess(text):
     text = text.lower()
-    '''alphanumeric = "" ## removing the special characters is causing the the predictions to be wrogn
-    for character in text:
-        if character.isalnum():
-            alphanumeric += character
-    return alphanumeric'''
+    
     return text
 
 # make a prediction using the model created
