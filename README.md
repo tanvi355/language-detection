@@ -30,6 +30,4 @@ Steps for making the model:
 
 For making the web-app, we have used ReactJS framework for the frontend and Flask framework for the backend.
 
-[Model and backend](https://github.com/tanvi355/mini-project)
-
-[Frontend](https://github.com/nsdahile/language-detection)
+[Model](https://github.com/tanvi355/mini-project/blob/main/language%20detection.ipynb) | [Backend](https://github.com/tanvi355/mini-project/blob/main/app.py) | [Frontend](https://github.com/nsdahile/language-detection)
