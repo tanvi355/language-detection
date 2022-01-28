@@ -30,4 +30,4 @@ Steps for making the model:
 
 For making the web-app, we have used HTML, CSS for the frontend and Flask framework for the backend.
 
-[Model](https://github.com/tanvi355/mini-project/blob/main/language%20detection.ipynb) | [Web App](https://github.com/sakinanomi/Language_detection_web_app)]
+[Model](https://github.com/tanvi355/language-detection/blob/main/language%20detection.ipynb) | [Web App repository](https://github.com/sakinanomi/Language_detection_web_app)] | [Live link](https://lang-detection-ui.herokuapp.com/)
