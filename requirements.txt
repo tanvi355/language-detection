@@ -1,6 +1,0 @@
-Requirement for app.py
-
-Flask==2.0.1
-Flask_Cors==3.0.10
-scikit_learn==1.0.1
-gunicorn
