@@ -2,6 +2,8 @@
 
 # Language identification using machine learning
 
+## Live Link: [Click Here](https://lang-detection-ui.herokuapp.com/)
+
 This repository contains the machine learning model for detecting the language of the given text. It has also been developed into a web-app.
 
 ## Model creation
