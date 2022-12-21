@@ -4,6 +4,8 @@
 
 ## Live Link: [Click Here](https://lang-detection-ui.herokuapp.com/)
 
+### <i> Note: The deployment is no longer available as Heroku has discontinued its free plan. </i>
+
 This repository contains the machine learning model for detecting the language of the given text. It has also been developed into a web-app.
 
 ## Model creation
